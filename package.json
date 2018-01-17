@@ -1,0 +1,14 @@
+{
+  "name": "nj03-builtinmodulelist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "builtin-modules": "^2.0.0"
+  }
+}
